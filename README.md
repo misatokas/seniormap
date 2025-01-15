@@ -1,5 +1,5 @@
 # SeniorMap
-An interactive map of GMHS seniors' college/postsecondary destinations. Created by Erik Boesen (GMHS Class of 2019), the map is now maintained by the GMHS Advanced Programming Club. If you'd like to make a submission, please visit [the map](https://apc-gm.com/seniormap) and click on the form in the bottom left corner.
+An interactive map of GMHS seniors' college/postsecondary destinations. Created by Erik Boesen (GMHS Class of 2019), the map is now maintained by the GMHS Advanced Programming Club. If you'd like to make a submission, please visit [the map](https://apc-mhs.com/seniormap) and click on the form in the bottom left corner.
 
 ![Map Screenshot](screenshot.png)
 
